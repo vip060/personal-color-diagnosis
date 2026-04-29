@@ -210,3 +210,20 @@ MIT — 随便用，随便改，顺便给个 ⭐ 就更好了。
 ⭐ [Star on GitHub](https://github.com/vip060/personal-color-diagnosis) · 🍴 [Fork it](https://github.com/vip060/personal-color-diagnosis/fork)
 
 </div>
+---
+
+## 🤝 联动 `outfit-upgrade`
+
+两个 skill 串联，打造完整形象升级流水线：
+
+```
+📸 用户发照片
+    │
+    ├─→ personal-color-diagnosis → 🎨 天命色盘
+    │       "你是 Spring Clear 暖净型"
+    │
+    └─→ outfit-upgrade → 👔 三场景穿搭报告
+            "配色已从你的色盘中自动选取"
+```
+
+> 💡 [outfit-upgrade →](https://github.com/vip060/outfit-upgrade) TikTok 竖屏衣品改造报告生成器
